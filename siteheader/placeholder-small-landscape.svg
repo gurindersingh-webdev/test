@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="180px" viewBox="0 0 320 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>placeholder-small-landscape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="320" height="180"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="placeholder-small-landscape">
+            <g id="Group">
+                <g id="bg">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#666666" stroke-width="2" x="1" y="1" width="318" height="178"></rect>
+                </g>
+                <path d="M320,0 L0.25,179.859375" id="Line" stroke="#666666" stroke-width="2" stroke-linecap="square"></path>
+                <path d="M0.25,0.140625 L320,180" id="Line-2" stroke="#666666" stroke-width="2" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>
